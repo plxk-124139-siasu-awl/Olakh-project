@@ -33,7 +33,7 @@ Olakh simplifies this by providing a fast, no-code solution.
 
 ## 🔗 Demo
 
-(Will be added after hosting)
+https://plxk-124139-siasu-awl.github.io/Olakh-project/
 
 ## 📸 Screenshots
 
