@@ -37,7 +37,8 @@ https://plxk-124139-siasu-awl.github.io/Olakh-project/
 
 ## 📸 Screenshots
 
-(Will be added)
+HOME[https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/homepage1.png]
+
 
 ## 👤 Author
 
