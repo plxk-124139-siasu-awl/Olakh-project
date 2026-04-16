@@ -37,8 +37,13 @@ https://plxk-124139-siasu-awl.github.io/Olakh-project/
 
 ## 📸 Screenshots
 
-HOME[https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/homepage1.png]
-
+HOME[https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/homepage1.png],[https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/home%20page2.png]
+LOGIN PAGE[https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/login%20page.png]
+SIGN UP[https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/sign%20up%20page.png]
+DASHBOARD [https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/dashboard.png]
+FORM FOR WEBSITE[https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/form%20fro%20website.png]
+WEBSITE PHONE PREVIEW[https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/phone%20preview%20for%20website.png]
+WEBSITE STATUS[https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/website%20status.png]
 
 ## 👤 Author
 
