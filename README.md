@@ -26,6 +26,18 @@ Olakh simplifies this by providing a fast, no-code solution.
 * CSS
 * JavaScript
 
+##🎯 Future Improvements
+Full AI-generated UI customization
+Advanced analytics dashboard
+SEO optimization
+Multi-language support
+Payment integration for premium plans
+
+
+##💭 Vision
+
+“Make every small business visible online instantly, without technical barriers.”
+
 ## ▶️ How to run
 
 1. Download or clone the repository
@@ -49,7 +61,7 @@ WEBSITE STATUS[https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/
 
 SANUJA GUPTA
 
-⭐ Note
+##⭐ Note
 
 This project is a prototype built for hackathon/demo purposes.
 Some features may be simulated to demonstrate the full experience.
