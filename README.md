@@ -49,3 +49,8 @@ WEBSITE STATUS[https://github.com/plxk-124139-siasu-awl/Olakh-project/blob/main/
 
 SANUJA GUPTA
 
+⭐ Note
+
+This project is a prototype built for hackathon/demo purposes.
+Some features may be simulated to demonstrate the full experience.
+
